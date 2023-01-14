@@ -2,6 +2,11 @@
 # Dino Game
 dino game using pure venilla Js 
 
+## Deployment
+
+https://i-m-prabhat.github.io/dino-game/
+
+
 ## Demo
 
 [demo.mp4](https://user-images.githubusercontent.com/117756490/212495735-01c6b9e7-d3b5-489d-919b-8dc470a3e4c8.mp4)
